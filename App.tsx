@@ -305,7 +305,6 @@ const App: React.FC = () => {
       </main>
       
       <footer className="mt-12 text-center text-xs text-christmas-red/60 font-medium pb-8">
-        <p>Made with ❤️ & Gemini AI</p>
         <button onClick={handleShare} className="mt-2 underline opacity-70 hover:opacity-100">
             Share this with friends
         </button>
