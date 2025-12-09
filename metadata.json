@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Avatar Maker",
+  "description": "Upload your avatar and let AI add a festive Christmas hat to it automatically!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
